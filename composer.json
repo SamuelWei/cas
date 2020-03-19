@@ -1,5 +1,5 @@
 {
-  "name": "subfission/cas",
+  "name": "samuelweirich/cas",
   "description": "Adds CAS to laravel 7.x",
   "keywords": [
     "CAS",
@@ -12,6 +12,10 @@
   "authors": [
     {
       "name": "subfission",
+      "role": "Developer"
+    },
+     {
+      "name": "samuelweirich",
       "role": "Developer"
     }
   ],
